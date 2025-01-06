@@ -22,13 +22,13 @@ function App() {
 
   return (
     <>
-    <Navbar title="TextUtils" home="Home" about="About" mode={mode} toggleMode={toggleMode} />
+    <Navbar title="TextLens" home="Home" about="About" mode={mode} toggleMode={toggleMode} />
     <div className=" mb-3">
-        <TextForms heading="TextUtils- Word & Character counter, Remove extra spaces" mode={mode} />
+        <TextForms heading="TextLens- Word & Character counter, Remove extra spaces" mode={mode} />
    </div>
    </>
     // <Router>
-    //   <Navbar title="TextUtils" home="Home" about="About" mode={mode} toggleMode={toggleMode} />
+    //   <Navbar title="TextLens" home="Home" about="About" mode={mode} toggleMode={toggleMode} />
     //   <div className="container my-3">
     //     <Routes>
     //       <Route path="/" element={<TextForms heading="Enter your text to analyze" mode={mode} />} />
