@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextLens/static/css/main.e96a5191.css",
+    "main.js": "/TextLens/static/js/main.c039a5cf.js",
+    "index.html": "/TextLens/index.html",
+    "main.e96a5191.css.map": "/TextLens/static/css/main.e96a5191.css.map",
+    "main.c039a5cf.js.map": "/TextLens/static/js/main.c039a5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96a5191.css",
+    "static/js/main.c039a5cf.js"
+  ]
+}
