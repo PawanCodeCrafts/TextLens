@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+/* my css styling */
+
+.container {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+
