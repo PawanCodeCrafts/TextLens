@@ -8,17 +8,24 @@
 ✅ Sentiment Analysis<br>
 ✅ Case Conversion (Uppercase, Lowercase, Title Case)<br>
 ✅ Real-time Text Processing<br>
-<h3>Things I'm proud of:</h3>
+
+<h2>Things I'm proud of:</h2>
 <p>Learning and using React for this project! I am loving it!</p>
+
 <h2>🖥️ Installation</h2>
 <p>git clone https://github.com/PawanCodeCrafts/TextLens.git<br>
 cd TextLens</p>
+
 <h2> # npm install or yarn install</h2>
+
 <h3>▶️ Usage</h3>
+
 Run the project:
 <p>npm start or yarn start<br>
 Open your browser and visit: http://localhost:3000</p>
+
 <p>Enter text and explore the various analysis features.</p>
+
 <h2>🛠️ Technologies Used</h2>
 JavaScript<br>
 React.js<br>
