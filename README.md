@@ -8,7 +8,8 @@
 ✅ Sentiment Analysis<br>
 ✅ Case Conversion (Uppercase, Lowercase, Title Case)<br>
 ✅ Real-time Text Processing<br>
-
+<h3>Things I'm proud of:</h3>
+<p>Learning and using React for this project! I am loving it!</p>
 <h2>🖥️ Installation</h2>
 <p>git clone https://github.com/PawanCodeCrafts/TextLens.git<br>
 cd TextLens</p>
